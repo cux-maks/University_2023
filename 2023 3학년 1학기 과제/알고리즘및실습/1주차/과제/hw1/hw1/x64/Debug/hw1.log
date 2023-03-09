@@ -1,0 +1,5 @@
+﻿  A.cpp
+  B.cpp
+  코드를 생성하고 있습니다...
+B.obj : error LNK2005: main이(가) A.obj에 이미 정의되어 있습니다.
+D:\Git\University_2023\2023 3학년 1학기 과제\알고리즘및실습\1주차\과제\hw1\x64\Debug\hw1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
