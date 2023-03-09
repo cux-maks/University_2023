@@ -1,0 +1,5 @@
+A(set자료구조 미사용) - https://judge.koreatech.ac.kr/showsource.php?id=87095
+A(set자료구조 사용) - https://judge.koreatech.ac.kr/showsource.php?id=87103
+
+B(합병정렬) - https://judge.koreatech.ac.kr/showsource.php?id=87156
+B(tim sort) - https://judge.koreatech.ac.kr/showsource.php?id=87137
